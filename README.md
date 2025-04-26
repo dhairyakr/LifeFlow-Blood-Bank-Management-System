@@ -39,8 +39,7 @@ A modern and user-friendly web application designed to streamline the blood dona
 - **Frontend**: HTML5, CSS3, Bootstrap, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MySQL
-- **Authentication**: JWT / Sessions (if applicable)
-- **Deployment**: [Netlify / Render / Railway / etc.]
+
 
 ---
 
