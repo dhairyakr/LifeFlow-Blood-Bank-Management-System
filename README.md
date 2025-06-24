@@ -29,18 +29,6 @@ A modern and user-friendly web application designed to streamline the blood dona
 ![image](https://github.com/user-attachments/assets/b394eec5-305d-426c-b03a-98a685bd2b81)
 
 
-
-
-
----
-
-## ⚙️ Tech Stack
-
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MySQL
-
-
 ---
 
 ## 📜 License
